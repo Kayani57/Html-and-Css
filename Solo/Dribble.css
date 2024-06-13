@@ -1,0 +1,40 @@
+img{
+    width: 380px;
+    border: 3px solid #121212;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    
+}
+.txt{
+    
+    display: flex;
+    justify-content: center;
+}
+.btns{
+   
+    display:block;
+    padding-left: auto;
+  
+   
+
+}
+button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 180px;
+    
+    border: 3px solid #121212;
+   
+}
+p{
+   text-align: center;
+}
