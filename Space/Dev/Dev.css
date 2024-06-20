@@ -1,0 +1,49 @@
+body{
+    background-image: url("office3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /* or you can use background-size: contain; */
+    background-position: center;
+   
+   
+    
+    
+}
+h1{
+    margin-left: 40px;
+    padding-right: 350px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: italic;
+  font-variation-settings:"wdth" 100;
+    
+}
+p{
+    margin-left: 40px;
+    padding-right: 350px;
+    font-size: large;
+
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+}
+.main{
+    display: flex;
+    justify-content:left;
+}
+button{
+    margin-left: 40px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    background-color: 0ea5e9;
+    padding: 15px 25px; 
+    color: aliceblue;
+    font-size:medium;
+
+}
+button:hover{
+    background-color: #0E81E9;
+
+}
